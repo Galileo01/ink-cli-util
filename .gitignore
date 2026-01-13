@@ -1,0 +1,7 @@
+# dependencies
+node_modules
+
+# output
+.build_temp
+output
+.dist
